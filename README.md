@@ -9,7 +9,7 @@ A longer description of your project goes here...
 
 
 ## Local run
-`python -m happy_tasks.skeleton`
+You must type the command `python -m happy_tasks.skeleton`
 
 ## Note
 
